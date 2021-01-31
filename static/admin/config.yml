@@ -26,3 +26,4 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+          - {label: "Slug", name: "slug", widget: "string", default: "/about" }
