@@ -39,10 +39,10 @@ module.exports = {
           },
         ],
         externalLinks: [
-          {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
-          },
+          // {
+          //   name: `Twitter`,
+          //   url: `https://twitter.com/lekoarts_de`,
+          // },
           {
             name: `Instagram`,
             url: `https://www.instagram.com/mycomeg_/`,
