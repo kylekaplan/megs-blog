@@ -22,7 +22,7 @@ collections:
     files:
       - label: "About Page"
         name: "about"
-        file: "content/pages/about/index.mdx"
+        file: "content/pages/about/index.yml"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
