@@ -7,9 +7,9 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 module.exports = {
   siteMetadata: {
     // Used for the title template on pages other than the index site
-    siteTitle: `𓂙 Meg's Blog`,
+    siteTitle: `𓂙 Meg's Muses`,
     // Default title of the page
-    siteTitleAlt: `Meg's Blog`,
+    siteTitleAlt: `Meg's Muses`,
     // Can be used for e.g. JSONLD
     siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
     // Will be used to generate absolute URLs for og:image etc.
@@ -65,7 +65,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Megan Dias' Blog 𓂙`,
-        short_name: `Meg's blog 𓂙`,
+        short_name: `Meg's Muses 𓂙`,
         description: `All the cool stuff 𓂙`,
         start_url: `/`,
         background_color: `#fff`,
