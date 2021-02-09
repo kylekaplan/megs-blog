@@ -70,6 +70,8 @@ const Post = ({ data: { post } }: PostProps) => (
     </section>
     <section>
       <hr style={{ height: '1px', border: 'none', backgroundColor: 'rgb(203 213 224)', color: 'rgb(203, 213, 224)' }} />
+      <p>like what you see?</p>
+      <p>subscribe to the wandering wizard newsletter for more:</p>
       <ConvertKitForm />
     </section>
   </Layout>
