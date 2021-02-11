@@ -7,7 +7,11 @@ tags:
   - poem
   - journal
 ---
-![open journal with blank page ](/images/uploads/journalunsplash.jpeg "photo by Jessica Lewis on Pexels")
+<img src="https://mycomeg.com/images/uploads/journalunsplash.jpeg" style="height:100%;width:100%;" alt="open journal with blank page" />
+
+<div style="text-align: center; margin: 0 auto; font-size: 12px">photo by Jessica Lewis on Pexels</div>
+
+
 
 and so it begins,
 
