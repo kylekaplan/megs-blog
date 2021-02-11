@@ -1,12 +1,22 @@
 ---
 layout: blog
-title: First Test
-date: 2021-01-30T05:32:39.111Z
-slug: /blog/first-test
+title: "first haiku "
+date: 2020-05-13T04:32:39.111Z
+slug: /blog/first-haiku
 tags:
-  - tag1
-  - tag2
+  - haiku
+  - nature
 ---
-HI
+![](/images/uploads/firsthaiku.jpeg "this was my object of interest during a contemplative walk")
 
-![](/images/uploads/untitled-1.png)
+emblazoned branches\
+reminding me of my brain,\
+firing new pathways
+
+cerebral escapes\
+embarked on through dream and word,\
+my great odyssey
+
+illuminating\
+the subconscious recesses\
+i am coming home.
