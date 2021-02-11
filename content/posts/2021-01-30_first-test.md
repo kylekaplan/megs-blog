@@ -7,9 +7,7 @@ tags:
   - haiku
   - nature
 ---
-
-
-![](/images/uploads/firsthaiku.jpeg)
+![](/images/uploads/firsthaiku.jpeg "this was my object of interest during a contemplative walk")
 
 emblazoned branches\
 reminding me of my brain,\
