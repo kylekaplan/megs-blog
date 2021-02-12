@@ -10,7 +10,7 @@ tags:
 ---
 <img src="https://miro.medium.com/max/700/0*sY3LnARRoA2DvziX" style="height:100%;width:100%;" alt="man with sunglasses looking through magnifying glass" />
 
-<div style="text-align: center; margin: 0 auto; font-size: 12px">Photo by [Marten Newhall](https://unsplash.com/@laughayette?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)</div>
+<div style="text-align: center; margin: 0 auto; font-size: 12px">Photo byMarten Newhall on Unsplash</div>
 
 I grew to hate asking others “*what do you do?”* because it seemed so limiting. I almost wished they wouldn’t ask me that because it’s a boxy question.
 
