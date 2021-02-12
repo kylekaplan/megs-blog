@@ -3,6 +3,11 @@ layout: blog
 title: a glimpse into my mind's guests
 date: 2020-08-21T23:19:21.609Z
 slug: /blog/
+tags:
+  - thoughts
+  - insight
+  - personification
+  - motivation
 ---
 #### *you may consider being a host too*
 
