@@ -7,16 +7,28 @@ tags:
   - haiku
   - nature
 ---
-![](/images/uploads/firsthaiku.jpeg "this was my object of interest during a contemplative walk")
+<img src="https://mycomeg.com/images/uploads/firsthaiku.jpeg" style="height:100%;width:100%;" alt="trees with beautiful branches" />
 
-emblazoned branches\
-reminding me of my brain,\
+<div style="text-align: center; margin: 0 auto; font-size: 12px">photo taken by me during a contemplative walk </div>
+
+emblazoned branches
+
+reminding me of my brain,
+
 firing new pathways
 
-cerebral escapes\
-embarked on through dream and word,\
+...
+
+cerebral escapes
+
+embarked on through dream and word,
+
 my great odyssey
 
-illuminating\
-the subconscious recesses\
+...
+
+illuminating
+
+the subconscious recesses
+
 i am coming home.
