@@ -11,7 +11,7 @@ tags:
 ---
 <img src="https://miro.medium.com/max/500/0*fho_pLG8pT7BMy2j" style="height:100%;width:100%;" alt="cute hummingbird fluttering its wings" />
 
-<div style="text-align: center; margin: 0 auto; font-size: 12px">Photo by [Mark Olsen](https://unsplash.com/@markolsen?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)</div>
+<div style="text-align: center; margin: 0 auto; font-size: 12px">Photo by Mark Olsen on Unsplash </div>
 
 Three days in a row
 
