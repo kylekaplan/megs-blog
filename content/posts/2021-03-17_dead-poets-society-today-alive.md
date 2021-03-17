@@ -8,9 +8,9 @@ tags:
   - carpediem
   - art
 ---
-![](https://www.intofilm.org/intofilm-production/scaledcropped/970x546https%3A/s3-eu-west-1.amazonaws.com/images.cdn.filmclub.org/film__4377-dead-poets-society--hi_res-930e5fe7.jpg/film__4377-dead-poets-society--hi_res-930e5fe7.jpg)
-
 ## ***How a 1989 film is more timely than ever***
+
+<img width="100%" src="blob:https://mycomeg.com/f01ee4ba-b92a-4cb2-8ba1-80c0a6af4e1e" />
 
 I was quite surprised to find some critics slam [Dead Poets Society](https://www.amazon.com/Dead-Poets-Society-Robin-Williams/dp/B00AOB3XHC/ref=sr_1_1?crid=2OYLNFGWHYI2O&dchild=1&keywords=dead+poets+society&qid=1615994599&s=instant-video&sprefix=dead+poets%2Cinstant-video%2C192&sr=1-1) (DPS) as much as they did. 
 
