@@ -2,7 +2,7 @@
 layout: blog
 title: Dead Poets Society, Today & Alive
 date: 2021-03-17T14:49:42.417Z
-slug: /blog/
+slug: /blog/deadpoetssociety
 ---
 ![](https://www.intofilm.org/intofilm-production/scaledcropped/970x546https%3A/s3-eu-west-1.amazonaws.com/images.cdn.filmclub.org/film__4377-dead-poets-society--hi_res-930e5fe7.jpg/film__4377-dead-poets-society--hi_res-930e5fe7.jpg)
 
