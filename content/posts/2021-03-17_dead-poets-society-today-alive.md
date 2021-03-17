@@ -3,12 +3,16 @@ layout: blog
 title: Dead Poets Society, Today & Alive
 date: 2021-03-17T14:49:42.417Z
 slug: /blog/deadpoetssociety
+tags:
+  - movie
+  - carpediem
+  - art
 ---
 ![](https://www.intofilm.org/intofilm-production/scaledcropped/970x546https%3A/s3-eu-west-1.amazonaws.com/images.cdn.filmclub.org/film__4377-dead-poets-society--hi_res-930e5fe7.jpg/film__4377-dead-poets-society--hi_res-930e5fe7.jpg)
 
 ## ***How a 1989 film is more timely than ever***
 
-I was quite surprised to find some critics slam Dead Poets Society (DPS) as much as they did. 
+I was quite surprised to find some critics slam [Dead Poets Society](https://www.amazon.com/Dead-Poets-Society-Robin-Williams/dp/B00AOB3XHC/ref=sr_1_1?crid=2OYLNFGWHYI2O&dchild=1&keywords=dead+poets+society&qid=1615994599&s=instant-video&sprefix=dead+poets%2Cinstant-video%2C192&sr=1-1) (DPS) as much as they did. 
 
 I thought it would be a mainstream nod of approval across the board, with resounding “Oh Captain! My Captain!” gusto. Alas, there will always be haters. 
 
@@ -66,8 +70,6 @@ It could mean anything. You get the point. 
 
 Dead Poets Society reminds us that it’s in our best interest to live a voracious life.
 
-
-
 # INDEPENDENT THINKING
 
 With a stifling education system, blaring media narrative, and compelling societal pressure, it can be quite a challenge to exercise free-thinking today. 
@@ -88,64 +90,34 @@ Keating’s method of teaching in Dead Poets Society wasn’t dependent on rules
 
 Let it be a reminder or a continual prod to search for that unique perspective you can share with the world.
 
-
-
 # THE ARTIST 
-
-
 
 “We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for."
 
-
-
 I don’t care if you code day and night, or sling lawsuits on the reg. 
-
-
 
 We’re all artists. \*gasp I said it\*
 
-
-
 Since when did we decide to define ourselves through one singular task? 
-
-
 
 That hobby you keep hidden because it’s so different than your day job… 
 
-
-
 That indescribable interest you try to suppress because it serves no “logical purpose”... 
-
-
 
 Yeah, that’s the artist in you. 
 
 It’s not just the painter, lyricist, or actor archetype you conjure up when you think of the word. 
 
-
-
 It could also mean jeweler, chef, and traveler. 
-
-
 
 It’s the inherent creative energy you possess. 
 
-
-
 And it’s a waste to inhibit that. 
-
-
 
 Let yourself be curious and dabble in something new if this is a novel concept. 
 
-
-
-Consider reading this short piece, Implement The Slash to reframe your mindset. 
-
-
+Consider reading this short piece, [Implement The Slash](https://mycomeg.com/blog/slash) to reframe your mindset. 
 
 Remember, there’s beauty in diversity, professionally and personally. 
 
-
-
-**These were the three main tenets of the film that stood out to me. Is there anything I left out? Let me know.**
+### **These were the three main tenets of the film that stood out to me. Is there anything I left out? Let me know.**
