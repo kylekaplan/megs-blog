@@ -14,13 +14,13 @@ tags:
 
 I was quite surprised to find some critics slam [Dead Poets Society](https://www.amazon.com/Dead-Poets-Society-Robin-Williams/dp/B00AOB3XHC/ref=sr_1_1?crid=2OYLNFGWHYI2O&dchild=1&keywords=dead+poets+society&qid=1615994599&s=instant-video&sprefix=dead+poets%2Cinstant-video%2C192&sr=1-1) (DPS) as much as they did. 
 
-I thought it would be a mainstream nod of approval across the board, with resounding “Oh Captain! My Captain!” gusto. Alas, there will always be haters. 
+I thought it would be a mainstream nod of approval across the board, with resounding *“Oh Captain! My Captain!”* gusto. Alas, there will always be haters. 
 
 Having recently watched the beloved Robin Williams movie for the first time (you can blame the gigantic rock I was living under) I came away with it as you might expect: tears, delight, anger, understanding. 
 
 For fellow rock-dwellers, Dead Poets Society is set at Welton Academy, a private elite school for boys.
 
-It’s a rigorous institution run by proud men touting its’ four pillars as often as they can muster: tradition, honor, discipline, and excellence. \*yawn\* 
+It’s a rigorous institution run by proud men touting its’ four pillars as often as they can muster: tradition, honor, discipline, and excellence. *\*yawn\** 
 
 The instructors, save for one daring soul, conform to orthodox teaching methods and reject the idea of 17-year-old boys “thinking for themselves”. 
 
@@ -74,7 +74,7 @@ Dead Poets Society reminds us that it’s in our best interest to live a voracio
 
 With a stifling education system, blaring media narrative, and compelling societal pressure, it can be quite a challenge to exercise free-thinking today. 
 
-Here’s my challenge to you: DO IT ANYWAY. 
+Here’s my challenge to you: ***DO IT ANYWAY.*** 
 
 And no, this doesn’t mean adopting contrarian thought just to go against the norm or deeming everyone else a sheeple for behaving a certain way.
 
@@ -92,11 +92,11 @@ Let it be a reminder or a continual prod to search for that unique perspective y
 
 # THE ARTIST 
 
-“We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for."
+*“We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. And medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for."*
 
 I don’t care if you code day and night, or sling lawsuits on the reg. 
 
-We’re all artists. \*gasp I said it\*
+We’re all artists. *\*gasp I said it\**
 
 Since when did we decide to define ourselves through one singular task? 
 
