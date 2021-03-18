@@ -10,7 +10,7 @@ tags:
 ---
 ## ***How a 1989 film is more timely than ever***
 
-<img width="100%" src="blob:https://mycomeg.com/f01ee4ba-b92a-4cb2-8ba1-80c0a6af4e1e" />
+<img src="https://miro.medium.com/max/2400/0*kOyS6zatpiEmahm-.jpg" style="height:100%;width:100%;" alt="quirky english professor stands on desk in front of students" />
 
 I was quite surprised to find some critics slam [Dead Poets Society](https://www.amazon.com/Dead-Poets-Society-Robin-Williams/dp/B00AOB3XHC/ref=sr_1_1?crid=2OYLNFGWHYI2O&dchild=1&keywords=dead+poets+society&qid=1615994599&s=instant-video&sprefix=dead+poets%2Cinstant-video%2C192&sr=1-1) (DPS) as much as they did. 
 
@@ -20,7 +20,7 @@ Having recently watched the beloved Robin Williams movie for the first time (you
 
 For fellow rock-dwellers, Dead Poets Society is set at Welton Academy, a private elite school for boys.
 
-It’s a rigorous institution run by proud men touting its’ four pillars as often as they can muster: tradition, honor, discipline, and excellence. *\*yawn\** 
+It’s a rigorous institution run by proud men touting its’ four pillars as often as they can muster: tradition, honor, discipline, and excellence. \*\*yawn\*\* 
 
 The instructors, save for one daring soul, conform to orthodox teaching methods and reject the idea of 17-year-old boys “thinking for themselves”. 
 
@@ -96,7 +96,7 @@ Let it be a reminder or a continual prod to search for that unique perspective y
 
 I don’t care if you code day and night, or sling lawsuits on the reg. 
 
-We’re all artists. *\*gasp I said it\**
+We’re all artists. \*\*gasp I said it\*\*
 
 Since when did we decide to define ourselves through one singular task? 
 
