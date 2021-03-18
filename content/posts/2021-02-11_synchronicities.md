@@ -2,7 +2,7 @@
 layout: blog
 title: Synchronicities
 date: 2020-05-27T19:06:42.736Z
-slug: /blog/
+slug: /blog/synchronicity
 tags:
   - haiku
   - synchronicity
