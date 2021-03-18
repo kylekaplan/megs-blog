@@ -20,7 +20,7 @@ Having recently watched the beloved Robin Williams movie for the first time (you
 
 For fellow rock-dwellers, Dead Poets Society is set at Welton Academy, a private elite school for boys.
 
-It’s a rigorous institution run by proud men touting its’ four pillars as often as they can muster: tradition, honor, discipline, and excellence. \*\*yawn\*\* 
+It’s a rigorous institution run by proud men touting its’ four pillars as often as they can muster: tradition, honor, discipline, and excellence. *\*yawn\** 
 
 The instructors, save for one daring soul, conform to orthodox teaching methods and reject the idea of 17-year-old boys “thinking for themselves”. 
 
