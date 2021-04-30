@@ -11,12 +11,11 @@ const Newsletter = () => {
       <Heading as="h1" variant="styles.h1">
         Newsletter
       </Heading>
-      <p>Want a more personal dose? 
-        
+      <p style={{ fontSize: '20px' }}>Want a more personal dose? 
+        <br />
+        <br />
         Sign up for the stories and insights that get sent to your inbox every MWF.
-         
-
-        Who knows? It might help you out in your human experience too ;)</p>
+        </p>
       <ConvertKitForm />
       <span>you can unsubscribe at anytime.</span>
     </Layout>
