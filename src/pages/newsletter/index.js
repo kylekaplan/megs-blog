@@ -11,11 +11,14 @@ const Newsletter = () => {
       <Heading as="h1" variant="styles.h1">
         Newsletter
       </Heading>
-      <h1>greatness delivered straight to your inbox.</h1>
-      <p>the tantalizing stories, secrets, tips & offers that don't usually make it elsewhere...</p>
-      <p>helping you out in your human experience too ;) whatcha say?</p>
+      <p>Want a more personal dose? 
+        
+        Sign up for the stories and insights that get sent to your inbox every MWF.
+         
+
+        Who knows? It might help you out in your human experience too ;)</p>
       <ConvertKitForm />
-      <span>i promise it won't be spam, only the sensational stuff. you can unsubscribe at anytime.</span>
+      <span>you can unsubscribe at anytime.</span>
     </Layout>
   )
 }

@@ -43,10 +43,10 @@ module.exports = {
           },
         ],
         externalLinks: [
-          // {
-          //   name: `Twitter`,
-          //   url: `https://twitter.com/lekoarts_de`,
-          // },
+          {
+            name: `Medium`,
+            url: `https://medium.com/whimsical-woods`,
+          },
           {
             name: `Instagram`,
             url: `https://www.instagram.com/mycomeg_/`,
