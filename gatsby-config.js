@@ -44,8 +44,8 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Medium`,
-            url: `https://medium.com/whimsical-woods`,
+            name: `🍄📖🔱👽⛰️`,
+            url: `https://y.at/🍄📖🔱👽⛰️`,
           },
           {
             name: `Instagram`,
