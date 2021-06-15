@@ -11,17 +11,17 @@ module.exports = {
     // Default title of the page
     siteTitleAlt: `Meg's Muses`,
     // Can be used for e.g. JSONLD
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
+    siteHeadline: `Meg's Muses`,
     // Will be used to generate absolute URLs for og:image etc.
-    siteUrl: `https://megs-blog.netlify.app`,
+    siteUrl: `https://mycomeg.com`,
     // Used for SEO
     siteDescription: `All the cool stuff 𓂙`,
     // Will be set on the <html /> tag
     siteLanguage: `en`,
     // Used for og:image and must be placed inside the `static` folder
-    siteImage: `/banner.jpg`,
+    siteImage: `/`,
     // Twitter Handle
-    author: `@lekoarts_de`,
+    author: `@mycomeg`,
   },
   plugins: [
     {
