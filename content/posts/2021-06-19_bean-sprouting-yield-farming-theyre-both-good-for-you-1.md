@@ -6,6 +6,8 @@ slug: /blog/bean-sprouting-and-yield-farming
 tags:
   - crypto
   - finance
+  - defi
+  - yieldfarming
 ---
 There’s this Indian dish, khichdi, a nourishing blend traditionally made with rice, mung beans, and aromatic spices like turmeric, cloves, and cardamom. 
 
@@ -15,7 +17,7 @@ This past week, I decided to make a variation of it with sprouted mung beans and
 
 Yield farming can be hard to get so maybe thinking of it in terms of bean sprouting can help you start.
 
-<img src="https://doc-00-1k-docs.googleusercontent.com/docs/securesc/qdijcvb8bf0drt10oqdbdaffa3ths1bd/8v7fbgs93of6bhqc4kim50106gunuapa/1624074450000/06779280165983013739/09530620258038166950/1fDwf3rL6MGoFjazl7fOELWwW93Bc2upL?authuser=0&nonce=ev7kfc97epkam&user=09530620258038166950&hash=8nvcce1ci3htlm6rckk201oui6kv0qq6" style="height:50%;width:50%;" alt="unsprouted and sprouted mung bean side by side on hand with your money before yield farming & your money after yield farming comparison" />
+<img src="https://miro.medium.com/max/6048/1*7Lj9OARo5XkxBiesE1k6xQ.jpeg" style="height:50%;width:50%;" alt="unsprouted and sprouted mung bean" />
 
 If you’ve ever sprouted, you’ll know how fun the process is. You start with many hard, closed seeds/legumes/beans and end up with an abundance of *almost plants.* 
 
@@ -65,7 +67,7 @@ It takes learning and educating yourself of course but it’s so worth it. 
 
 Please don’t shy away if you count yourself financially unsavvy. 
 
-In fact, if you don’t have a traditional finance foundation, crypto will be your gateway to finally getting it. I think learning crypto will be easier and stronger to build upon — allowing you to understand the current system and what you can do to set yourself up for success.
+In fact, if you don’t have a traditional finance foundation, crypto will be your gateway to *finally getting it*. I think learning crypto will be easier and stronger to build upon — allowing you to understand the current system and what you can do to set yourself up for success.
 
 It’s never too late to start. 
 
@@ -85,4 +87,6 @@ You hungry?
 
 <br/>
 
-<br/>*\*Note: I’m not a financial advisor, just a DeFi enthusiast. Please do your own research before deciding what to do with your money. Yield farming is a high risk, high reward scenario but at least you have a choice to partake in a new movement behind your money now. Never stop learning :)*
+<br/>
+
+*Note: I’m not a financial advisor, just a DeFi enthusiast. Please do your own research before deciding what to do with your money. Yield farming is a high risk, high reward scenario but at least you have a choice to partake in a new movement behind your money now. Never stop learning :)*
