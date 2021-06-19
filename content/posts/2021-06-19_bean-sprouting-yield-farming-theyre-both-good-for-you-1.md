@@ -12,6 +12,10 @@ This past week, I decided to make a variation of it with sprouted mung beans and
 
 Yield farming can be hard to get so maybe thinking of it in terms of bean sprouting can help you start.
 
+![](/images/uploads/mung-bean.jpg)
+
+\
+\
 If you’ve ever sprouted, you’ll know how fun the process is. You start with many hard, closed seeds/legumes/beans and end up with an abundance of *almost plants.* 
 
 Mung beans are the easiest to sprout — you take a cup of them, clean them out, and leave them soaking in water overnight. You’ll start to see shoots the very next day, and you just keep rinsing and repeating till you get your desired sprout level. 
