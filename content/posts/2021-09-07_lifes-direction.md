@@ -7,9 +7,7 @@ tags:
   - poem
   - direction
 ---
-<img src="https://miro.medium.com/max/700/1*3Y54N0X7q5yZdcUMufizew.jpeg" style="height:100%;width:100%;" alt="view of secret garden with chair and trees" />
-
-
+<img src="https://miro.medium.com/max/700/1*3Y54N0X7q5yZdcUMufizew.jpeg" style="height:50%;width:50%;" alt="view of secret garden with chair and trees" />
 
 life’s direction is fraught
 
